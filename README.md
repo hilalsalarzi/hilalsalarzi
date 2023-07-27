@@ -7,8 +7,8 @@ I'm a passionate software developer and Linux engineer with expertise in various
 ## Table of Contents
 
 - [About Me](#about-me)
+- - [Skills](#skills)
 - [Projects](#projects)
-- [Skills](#skills)
 - [Contact](#contact)
 
 ## About Me
