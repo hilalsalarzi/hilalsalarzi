@@ -71,7 +71,9 @@ Here are some of my highlighted projects:
     - Description: [Briefly describe the project]
     - Link: [Scramble Game Repository](https://github.com/hilalsalarzi/Scramble-Game-Advance-Javascript-Project)
 
-Feel free to add more projects or remove the examples as needed.
+Please note that some projects are private due to being client projects and live. If you are interested in exploring the private repositories or have any inquiries regarding these projects, feel free to contact me via email at hilalahmadsalarzi@gmail.com or phone number at +92 3428890064.
+
+Feel free to explore the public repositories and reach out for any collaborations or discussions.
 
 ## Skills
 
@@ -98,7 +100,7 @@ Here are the key skills I possess:
 You can reach me via:
 
 - Email: hilalahmadsalarzi@gmail.com
-- Phone: 03428890064
+- Phone: +92 3428890064
 - Location: Peshawar, Pakistan
 - LinkedIn: [linkedin.com/in/hilalsalarzi](https://www.linkedin.com/in/hilalsalarzi)
 - Twitter: [twitter.com/hilalsalarzi](https://twitter.com/hilalsalarzi)
