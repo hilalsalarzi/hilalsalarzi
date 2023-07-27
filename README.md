@@ -15,6 +15,26 @@ I'm a passionate software developer and Linux engineer with expertise in various
 
 Hello! I am Hilal Salarzi, a highly motivated and detail-oriented developer with a strong foundation in web technologies and Linux administration. My journey in programming began with a passion for building interactive and user-friendly websites. Over time, I expanded my skills to include Linux system administration and Bash scripting. I'm always eager to learn and explore new technologies to improve my craft.
 
+## Skills
+
+Here are the key skills I possess:
+
+- HTML5
+- CSS3
+- Bootstrap 4 & 5
+- JavaScript
+- jQuery
+- PHP
+- AJAX
+- MySQL
+- Laravel
+- WordPress
+- SEO
+- GitHub
+- Ubuntu OS
+- Bash Scripting
+- Linux System Administration
+
 ## Projects
 
 Here are some of my highlighted projects:
@@ -75,25 +95,6 @@ Please note that some projects are private due to being client projects and live
 
 Feel free to explore the public repositories and reach out for any collaborations or discussions.
 
-## Skills
-
-Here are the key skills I possess:
-
-- HTML5
-- CSS3
-- Bootstrap 4 & 5
-- JavaScript
-- jQuery
-- PHP
-- AJAX
-- MySQL
-- Laravel
-- WordPress
-- SEO
-- GitHub
-- Ubuntu OS
-- Bash Scripting
-- Linux System Administration
 
 ## Contact
 
