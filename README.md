@@ -69,7 +69,7 @@ Here are some of my highlighted projects:
 
 8. **Hotel Management System** 🏨
    - Description: The Hotel Management System is a robust web-based application designed for hotel administrators and staff. It provides functionalities for managing room reservations, guest check-ins and check-outs, billing, and room service requests. The system aims to improve the overall guest experience and streamline hotel operations.
-   - Link: [Hotel Management System Repository]()
+   - Link: [Hotel Management System Repository](https://github.com/hilalsalarzi/hotel-management)
 
 9. **Login Form** 🔒
    - Description: The Login Form project is a simple yet essential web-based application that offers a user login interface. It validates user credentials and grants access to authorized users. The project serves as a foundational building block for incorporating secure user authentication into various web applications.
