@@ -17,12 +17,59 @@ Hello! I am Hilal Salarzi, a highly motivated and detail-oriented developer with
 
 ## Projects
 
-Here's my highlighted project:
+Here are some of my highlighted projects:
 
-1. **Laboratory Management System**
-   - Description: This project is a web-based application designed to manage and streamline laboratory operations. It includes features for managing lab inventory, equipment, user accounts, scheduling, and generating reports.
-   - Technologies Used: HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, AJAX.
-   - Link: [Laboratory Management System Repository](https://github.com/hilalsalarzi/laboratory-management-system)
+1. **Laboratory Management System** 💼
+   - Description: A web-based application designed to manage and streamline laboratory operations, including inventory, equipment, user accounts, and reports.
+   - Link: [Laboratory Management System Repository](https://github.com/hilalsalarzi/full_updated_lab)
+
+2. **Point of Sale Management System** 💰
+   - Description: A comprehensive POS system to manage sales, inventory, and customer data for retail businesses.
+   - Link: [Point of Sale Management System Repository](https://github.com/hilalsalarzi/pos)
+
+3. **E-Tailor Management System** 👕
+   - Description: [Briefly describe the project]
+   - Link: [E-Tailor Management System Repository](https://github.com/hilalsalarzi/tailor)
+
+4. **Plaza Management System** 🏢
+   - Description: [Briefly describe the project]
+   - Link: [Plaza Management System Repository](https://github.com/hilalsalarzi/plaza)
+
+5. **E-Commerce** 🛍️
+   - Description: [Briefly describe the project]
+   - Link: [E-Commerce Repository](https://github.com/hilalsalarzi/E-commerce)
+
+6. **Tourism Management System** 🗺️
+   - Description: [Briefly describe the project]
+   - Link: [Tourism Management System Repository](https://github.com/hilalsalarzi/picnic_spot)
+
+7. **Visa Management System** ✈️
+   - Description: [Briefly describe the project]
+   - Link: [Visa Management System Repository](https://github.com/hilalsalarzi/visa)
+
+8. **Hotel Management System** 🏨
+   - Description: [Briefly describe the project]
+   - Link: [Hotel Management System Repository]()
+
+9. **Login Form** 🔒
+   - Description: [Briefly describe the project]
+   - Link: [Login Form Repository](https://github.com/hilalsalarzi/login_form)
+
+10. **Chatbot** 🤖
+    - Description: [Briefly describe the project]
+    - Link: [Chatbot Repository](https://github.com/hilalsalarzi/chatbot)
+
+11. **Animated Navbar** 🚀
+    - Description: [Briefly describe the project]
+    - Link: [Animated Navbar Repository](https://github.com/hilalsalarzi/animated_navbar)
+
+12. **Login Verification** 🔐
+    - Description: [Briefly describe the project]
+    - Link: [Login Verification Repository](https://github.com/hilalsalarzi/tailor)
+
+13. **Scramble Game (Advance JavaScript Project)** 🎲
+    - Description: [Briefly describe the project]
+    - Link: [Scramble Game Repository](https://github.com/hilalsalarzi/Scramble-Game-Advance-Javascript-Project)
 
 Feel free to add more projects or remove the examples as needed.
 
@@ -51,7 +98,7 @@ Here are the key skills I possess:
 You can reach me via:
 
 - Email: hilalahmadsalarzi@gmail.com
-- Phone: +92 3428890064
+- Phone: 03428890064
 - Location: Peshawar, Pakistan
 - LinkedIn: [linkedin.com/in/hilalsalarzi](https://www.linkedin.com/in/hilalsalarzi)
 - Twitter: [twitter.com/hilalsalarzi](https://twitter.com/hilalsalarzi)
@@ -67,4 +114,3 @@ This repository and its contents are open-source under the [MIT License](LICENSE
 ---
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
-
