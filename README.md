@@ -51,7 +51,7 @@ Here are the key skills I possess:
 You can reach me via:
 
 - Email: hilalahmadsalarzi@gmail.com
-- Phone: 03428890064
+- Phone: +92 3428890064
 - Location: Peshawar, Pakistan
 - LinkedIn: [linkedin.com/in/hilalsalarzi](https://www.linkedin.com/in/hilalsalarzi)
 - Twitter: [twitter.com/hilalsalarzi](https://twitter.com/hilalsalarzi)
