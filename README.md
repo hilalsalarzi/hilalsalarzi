@@ -113,10 +113,6 @@ Connect with me on social media:
 
 Feel free to connect, collaborate, or discuss any projects or ideas. I'm open to opportunities and always excited to engage with the developer community.
 
-## License
-
-This repository and its contents are open-source under the [MIT License](LICENSE).
-
 ---
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
