@@ -29,7 +29,7 @@ Here are the key skills I possess:
 | | ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub |
 | | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) Ubuntu OS |
 | | ![Bash Scripting](https://img.icons8.com/plasticine/48/000000/bash.png) Bash Scripting |
-| | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration |
+| | 
 
 
 
