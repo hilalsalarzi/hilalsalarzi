@@ -19,21 +19,22 @@ Hello! I am Hilal Salarzi, a highly motivated and detail-oriented developer with
 
 Here are the key skills I possess:
 
-- HTML5
-- CSS3
-- Bootstrap 4 & 5
-- JavaScript
-- jQuery
-- PHP
-- AJAX
-- MySQL
-- Laravel
-- WordPress
-- SEO
-- GitHub
-- Ubuntu OS
-- Bash Scripting
-- Linux System Administration
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 4 & 5
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) jQuery
+- ![PHP](https://img.icons8.com/ios-filled/48/000000/php-logo.png) PHP
+- ![AJAX](https://img.icons8.com/ios-filled/48/000000/ajax.png) AJAX
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+- ![Laravel](https://img.icons8.com/ios-filled/48/000000/laravel.png) Laravel
+- ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress
+- ![SEO](https://img.icons8.com/color/48/000000/seo.png) SEO
+- ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub
+- ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) Ubuntu OS
+- ![Bash Scripting](https://img.icons8.com/plasticine/48/000000/bash.png) Bash Scripting
+- ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
+
 
 ## Projects
 
