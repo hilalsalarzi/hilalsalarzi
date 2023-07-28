@@ -98,7 +98,7 @@ Feel free to explore the public repositories and reach out for any collaboration
 You can reach me via:
 
 - ![Email](https://img.icons8.com/color/20/000000/email.png) Email: [hilalahmadsalarzi@gmail.com](mailto:hilalahmadsalarzi@gmail.com)
-- ![Phone](https://img.icons8.com/color/24/000000/phone.png) Phone: +92 3428890064
+- ![Phone](https://img.icons8.com/color/20/000000/phone.png) Phone: [+92 3428890064](https://api.whatsapp.com/send?phone=+923428890064)
 - ![Location](https://img.icons8.com/color/24/000000/world-map.png) Location: [Peshawar, Pakistan](https://www.google.com/maps?q=33.9990068,71.4683271)
 
 
