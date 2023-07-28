@@ -22,7 +22,6 @@ Here are the key skills I possess:
 
 
 
-
 | Front-End                                       | Back-End                                        | Other Skills
 | :---                                           | :---                                            | :---
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 | ![PHP](https://img.icons8.com/ios-filled/48/000000/php-logo.png) PHP | ![SEO](https://img.icons8.com/color/48/000000/seo.png) SEO
