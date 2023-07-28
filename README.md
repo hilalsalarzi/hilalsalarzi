@@ -99,7 +99,7 @@ You can reach me via:
 
 - ![Email](https://img.icons8.com/color/20/000000/email.png) Email: [hilalahmadsalarzi@gmail.com](mailto:hilalahmadsalarzi@gmail.com)
 - ![Phone](https://img.icons8.com/color/24/000000/phone.png) Phone: +92 3428890064
-- ![Location](https://img.icons8.com/color/24/000000/world-map.png) Location: Peshawar, Pakistan
+- ![Location](https://img.icons8.com/color/24/000000/world-map.png) Location: [Peshawar, Pakistan](https://www.google.com/maps?q=33.9990068,71.4683271)
 
 
 
