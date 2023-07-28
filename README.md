@@ -103,10 +103,14 @@ You can reach me via:
 - Email: hilalahmadsalarzi@gmail.com
 - Phone: +92 3428890064
 - Location: Peshawar, Pakistan
-- LinkedIn: [linkedin.com/in/hilalsalarzi](https://www.linkedin.com/in/hilalsalarzi)
-- Twitter: [twitter.com/hilalsalarzi](https://twitter.com/hilalsalarzi)
-- GitHub: [github.com/hilalsalarzi](https://github.com/hilalsalarzi)
-- Instagram: [instagram.com/hilalsalarzi](https://www.instagram.com/hilalsalarzi/)
+
+Connect with me on social media:
+
+- ![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/hilalsalarzi)
+- ![Twitter](https://img.icons8.com/color/20/000000/twitter.png) [Twitter](https://twitter.com/hilalsalarzi)
+- ![GitHub](https://img.icons8.com/color/20/000000/github.png) [GitHub](https://github.com/hilalsalarzi)
+- ![Instagram](https://img.icons8.com/color/20/000000/instagram.png) [Instagram](https://www.instagram.com/hilalsalarzi/)
+
 
 Feel free to connect, collaborate, or discuss any projects or ideas. I'm open to opportunities and always excited to engage with the developer community.
 
