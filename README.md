@@ -93,13 +93,15 @@ Please note that some projects are private due to being client projects and live
 Feel free to explore the public repositories and reach out for any collaborations or discussions.
 
 
-## Contact
+# Contact
 
 You can reach me via:
 
-- Email: hilalahmadsalarzi@gmail.com
-- Phone: +92 3428890064
-- Location: Peshawar, Pakistan
+- ![Email](https://img.icons8.com/color/20/000000/email.png) Email: [hilalahmadsalarzi@gmail.com](mailto:hilalahmadsalarzi@gmail.com)
+- ![Phone](https://img.icons8.com/color/24/000000/phone.png) Phone: +92 3428890064
+- ![Location](https://img.icons8.com/color/24/000000/world-map.png) Location: Peshawar, Pakistan
+
+
 
 Connect with me on social media:
 
