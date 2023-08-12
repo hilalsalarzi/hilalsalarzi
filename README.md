@@ -1,6 +1,6 @@
 # Hello, I'm Hilal Salarzi! 👋
 
-![Profile Picture](profile_picture.jpg) <!-- You can add your profile picture here -->
+![Profile Picture](hilal-salarzi.png) <!-- You can add your profile picture here -->
 
 I'm a passionate software developer and Linux engineer with expertise in various technologies. Welcome to my GitHub repository, where I showcase some of my projects and code examples.
 
