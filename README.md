@@ -91,6 +91,10 @@ Here are some of my highlighted projects:
     - Description: The Scramble Game project is an advanced JavaScript game where players have to unscramble words within a time limit. It tests players' vocabulary and problem-solving skills. The project demonstrates the implementation of game logic and interactive user interfaces using JavaScript.
     - Link: [Scramble Game Repository](https://github.com/hilalsalarzi/Scramble-Game-Advance-Javascript-Project)
 
+14. **OnicByte (Built with React.js)** 🚀  
+    - Description: OnicByte is a web application built using React.js, designed to provide users with a seamless experience. It showcases advanced features, dynamic UI components, and responsive design to meet the needs of modern web applications.
+    - Link: [OnicByte Website](https://onicbyte.com)
+
 ---
 
 Please note that some projects are private due to being client projects and live. If you are interested in exploring the private repositories or have any inquiries regarding these projects, feel free to contact me via email at hilalahmadsalarzi@gmail.com or phone number at +92 3428890064.
