@@ -103,6 +103,10 @@ Here are some of my highlighted projects:
     - Description: The Khyber Pakhtunkhwa Commission on the Status of Women (KPCSW) website is built with WordPress, offering a platform to promote gender equality, women's empowerment, and women-related policies. The site features easy navigation, news updates, and a user-friendly interface to share information about the commission's initiatives and services.
     - Link: [KPCSW Website](https://kpcsw.gov.pk/)
 
+17. **Pamir Group - Online Order Container Management System (Built with Google Maps API)** 🚚  
+    - Description: The Pamir Group's Online Order Container Management System is a platform designed to manage and track container orders. It uses Google Maps API to provide real-time tracking and location services for the containers. The system simplifies the ordering process and enhances customer experience with an interactive map interface.
+    - Link: [Pamir Group Website](https://canada.pamirgroupcl.com/)
+
 ---
 
 Please note that some projects are private due to being client projects and live. If you are interested in exploring the private repositories or have any inquiries regarding these projects, feel free to contact me via email at hilalahmadsalarzi@gmail.com or phone number at +92 3428890064.
