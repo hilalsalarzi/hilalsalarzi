@@ -23,13 +23,14 @@ Here are the key skills I possess:
 
 
 | Front-End                                       | Back-End                                        | Other Skills
-| :---                                           | :---                                            | :---
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 | ![PHP](https://img.icons8.com/ios-filled/48/000000/php-logo.png) PHP | ![SEO](https://img.icons8.com/color/web) SEO
+| :---                                           | :---                                           | :---
+| ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 | ![PHP](https://img.icons8.com/ios-filled/48/000000/php-logo.png) PHP | ![SEO](https://img.icons8.com/color/48/000000/seo.png) SEO
 | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 | ![AJAX](https://img.icons8.com/ios-filled/48/000000/ajax.png) AJAX | ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 4 & 5 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) Ubuntu OS
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Laravel](https://img.icons8.com/ios-filled/48/000000/laravel.png) Laravel | ![Bash Scripting](https://img.icons8.com/plasticine/48/000000/bash.png) Bash Scripting
 | ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) jQuery | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
-[React Js] (https://img.icons8.com/color/48/000000/react-native.png).
+| ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js |                                                | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
+
 
 
 
