@@ -31,6 +31,8 @@ Here are the key skills I possess:
 | <img src="https://raw.githubusercontent.com/hilalsalarzi/hilalsalarzi/refs/heads/master/image.png" alt="jQuery" width="20" height="20"> jQuery | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
 | ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js | ![Google Maps](https://img.icons8.com/color/48/000000/google-maps-new.png) Google Maps API | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
 |                                                | ![API Development](https://img.icons8.com/color/48/000000/api.png) API Development | ![Server Management](https://img.icons8.com/color/48/000000/server.png) Server Management
+|                                                |                                                | ![Stripe](https://img.icons8.com/color/48/000000/stripe.png) Stripe Integration
+
 
 
 
