@@ -29,6 +29,7 @@ Here are the key skills I possess:
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 4 & 5 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) Ubuntu OS
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Laravel](https://img.icons8.com/ios-filled/48/000000/laravel.png) Laravel | ![Bash Scripting](https://img.icons8.com/plasticine/48/000000/bash.png) Bash Scripting
 | ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) jQuery | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
+(https://img.icons8.com/color/48/000000/react-native.png)
 
 
 
