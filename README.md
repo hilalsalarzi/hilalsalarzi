@@ -28,8 +28,10 @@ Here are the key skills I possess:
 | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 | ![AJAX](https://img.icons8.com/ios-filled/48/000000/ajax.png) AJAX | ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap 4 & 5 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) Ubuntu OS
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | ![Laravel](https://img.icons8.com/ios-filled/48/000000/laravel.png) Laravel | ![Bash Scripting](https://img.icons8.com/plasticine/48/000000/bash.png) Bash Scripting
-| <img src="https://raw.githubusercontent.com/hilalsalarzi/hilalsalarzi/refs/heads/master/image.png" alt="jQuery" width="20" height="20"> jQuery |![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
-| ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js |                                                | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
+| <img src="https://raw.githubusercontent.com/hilalsalarzi/hilalsalarzi/refs/heads/master/image.png" alt="jQuery" width="20" height="20"> jQuery | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux System Administration
+| ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js | ![Google Maps](https://img.icons8.com/color/48/000000/google-maps-new.png) Google Maps API | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
+|                                                | ![API Development](https://img.icons8.com/color/48/000000/api.png) API Development | 
+
 
 
 
