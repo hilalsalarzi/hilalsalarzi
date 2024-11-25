@@ -95,6 +95,14 @@ Here are some of my highlighted projects:
     - Description: OnicByte is a web application built using React.js, designed to provide users with a seamless experience. It showcases advanced features, dynamic UI components, and responsive design to meet the needs of modern web applications.
     - Link: [OnicByte Website](https://onicbyte.com)
 
+15. **Usmania Quran Institute (Built with WordPress)** 📚  
+    - Description: Usmania Quran Institute is a website built with WordPress, designed to provide resources and information related to Quranic education. The site features an easy-to-navigate interface, integrated forms, and an informative layout to engage users and provide them with key details about the institute's offerings.
+    - Link: [Usmania Quran Institute Website](https://usmaniaquraninstitute.com/)
+
+16. **Khyber Pakhtunkhwa Commission on the Status of Women (KPCSW) (Built with WordPress)** 🌐  
+    - Description: The Khyber Pakhtunkhwa Commission on the Status of Women (KPCSW) website is built with WordPress, offering a platform to promote gender equality, women's empowerment, and women-related policies. The site features easy navigation, news updates, and a user-friendly interface to share information about the commission's initiatives and services.
+    - Link: [KPCSW Website](https://kpcsw.gov.pk/)
+
 ---
 
 Please note that some projects are private due to being client projects and live. If you are interested in exploring the private repositories or have any inquiries regarding these projects, feel free to contact me via email at hilalahmadsalarzi@gmail.com or phone number at +92 3428890064.
