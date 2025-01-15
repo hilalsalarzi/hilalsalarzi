@@ -32,6 +32,7 @@ Here are the key skills I possess:
 | ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js | ![Google Maps](https://img.icons8.com/color/48/000000/google-maps-new.png) Google Maps API | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
 |                                                | ![API Development](https://img.icons8.com/color/48/000000/api.png) API Development | ![Server Management](https://img.icons8.com/color/48/000000/server.png) Server Management
 |                                                | ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) ASP.NET | ![Stripe](https://img.icons8.com/color/48/000000/stripe.png) Stripe Integration
+|                                                | ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) ASP.NET | ![Stripe](https://img.icons8.com/color/48/000000/stripe.png) Stripe Integration
 
 
 
