@@ -1,4 +1,4 @@
-# 👋 Hey there, Devs!
+# 👋 Hey there, Devs! I'm Hilal Salarzi
 
 Thanks for stopping by my GitHub!  
 Let’s make some magic in the terminal 💻✨
@@ -23,4 +23,5 @@ I break the code. I build the code. I automate it all. 💥
 
 ---
 
-**Happy coding, folks! Let's connect and create something epic! 🔥**
+**Happy coding, folks! Let’s connect and create something epic! 🔥**  
+— *Hilal Salarzi*
